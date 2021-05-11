@@ -1,0 +1,8 @@
+{
+    "name":"超级配置",
+    "namespace" : "\\App\\Plugins\\SuperConfig",
+    "dirname" : "SuperConfig",
+    "boot" : [
+        "Boot"
+    ]
+}
